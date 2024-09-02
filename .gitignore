@@ -1,0 +1,17 @@
+*.txt
+env_nyyo/
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.local/
+.profile
+.sudo_as_admin_successful
+.thunderbird/
+Desktop/
+Downloads/
+project/
+sessiion_log.txt
+snap/
