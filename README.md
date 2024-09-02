@@ -1,2 +1,2 @@
 # local-network-scan
-Excute a Pyhon script designed to scan a specified subnet within our local network.
+Excute a Pyhon script designed to scan a specified subnet within our local network.  The script used ICMP ping request to determine the availablity of devices.  It sysyematically pinged each iP address in the subnet and identified which ones were active.  the result was a list of active IP addresses, indicating which devices were currently online and responsive on our network.
